@@ -1,0 +1,31 @@
+========================================================== COMANDOS ==========================================================
+
+° npm init -y: Comando utilizado para iniciar un proyecto NodeJS.
+
+° npm install express: Comando utilizado para instalar la última versión de Express.
+
+° npm install nodemon -g: Comando utilizado para instalar la última versión de Nodemon.
+
+° npm install mongoose: Comando utilizado para instalar las librerias de MongoDB para ser integradas en el proyecto.
+
+° npm install graphql: Comando utilizado para instalar la última versión de GraphQL.
+
+° npm install express-graphql: Comando utilizado para instalar la última versión de las herramientas de GraphQL y ExpressJS.
+
+° npm install @graphql-tools/schema: Comando utilizado para instalar la última versión de las herramientas de GraphQL.
+
+° npm install --save-dev @babel/core @babel/cli @babel/preset-env: Comando utilizado para instalar la última versión de Babel Core, Babel Cli y Babel Preset-env.
+
+° npm install --save-dev @babel/node: Comando utilizado para instalar la última versión de Babel JS Node.
+
+° npm install rimraf: Comando utilizado para instalar la última versión de rimraf, util para la eliminación de carpetas.
+
+° npm install: Comando utilizado para instalar los paquetes descargados en el proyecto.
+
+° npm run start: Comando utilizado para correr el servidor de Node JS. El servidor corre por defecto en el navegador con la dirección localhost:3000
+
+° npm run build: Comando utilizado para generar código de babel JS desde el archivo src/index.js
+
+° node dist/index.js: Comando utilizado para correr el servidor de Node JS desde el archivo generado por Babel mediante el comando anterior. El servidor corre por defecto en el navegador con la dirección localhost:3000
+
+° mongod: Comando utilizado para correr el servidor de MongoDB (Se tiene que ejecutar sobre otra ventana de linea de comandos).

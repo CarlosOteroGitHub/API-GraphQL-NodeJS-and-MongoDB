@@ -1,0 +1,23 @@
+========================================================== DEPENDENCIAS UTILIZADAS ==========================================================
+
+° Microsoft Windows 10.
+
+° Google Chrome.
+
+° SublimeText.
+
+° HTML.
+
+° GraphQL.
+
+° MongoDB.
+
+° Mongoose.
+
+° NodeJS.
+
+° ExpressJS.
+
+° NPM.
+
+° Babel JS.
